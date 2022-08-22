@@ -3,5 +3,5 @@
     <br>
     📱💻🖥🖨🖱🖲🕹
     <br>
-    Estudos de HTML5 <br> HyperText Language Markup <br>
+    Estudos de HTML5
 </h1>
